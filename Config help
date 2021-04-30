@@ -1,0 +1,25 @@
+Many people prefer to buy electronics directly from showroom/store rather than online!!
+This is bcz they find it easier to seek help in a store(by enquiring people in store) and then find their "perfect" product matching their requirements.
+Whereas in a website they get confused about their requirements.
+My idea is to have a Config help section where the user gets help about his minimum or "ideal" req.
+
+For example:
+
+Suppose there is a user who needs buy a washing machine, but has no clue about the config the machine must have.
+When he gets into the config help section, he will be asked certain questions like:
+What product u want to buy?  (He will choose Washing machine)
+How many clothes do you want to fill-in per wash?  (He will choose 10 - 20)
+Do you want dryer option? (He chooses yes)
+Want any extra features like anti-tangle, anti-wrinkle, soundless?  (He selects none)
+
+Our help suggestion will be:
+
+Capacity 6.5 Kg: Suitable for families with 3 to 4 members
+RPM 680 : Higher spin speeds helps in faster drying
+6 Wash Programs : Normal, Quick wash, Delicates, Soak + Normal, Energy Saving, Eco Tub Clean
+
+This suggestion gives him an idea about the config and he can find his product without any external help
+
+<< The details given by the user could also be used for product recommendation (ML) >>
+
+***Enterprice Design thinking***
